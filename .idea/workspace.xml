@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00337eec-7fc4-4f3b-902c-b9b1a4492daa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/gamblingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/gamblingGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
